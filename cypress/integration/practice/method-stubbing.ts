@@ -2,7 +2,7 @@
 
 
 describe('Method spying', () => {
-    specify('Stub a method for COMMENT button click to bypass server call',() => {
+    specify('Simple method spying',() => {
         const func = {
             exec() {console.log('function ran')}
         }
