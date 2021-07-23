@@ -1,8 +1,8 @@
 /// <reference types="cypress" />
 
 
-describe('Method spying', () => {
-    specify('Simple method spying',() => {
+describe('Method Stubbing', () => {
+    it('Simple method Stubbing C2382',() => {
         const func = {
             exec() {console.log('function ran')}
         }

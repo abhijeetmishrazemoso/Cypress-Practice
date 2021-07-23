@@ -1,1 +1,14 @@
-{}
+{
+    "reporter": "salty-cypress-testrail-reporter",
+    "reporterOptions": {
+      "domain": "abhijeetzemoso.testrail.io",
+      "username": "abhijeet.mishra@zemosolabs.com",
+      "password": "Mukund1madhava",
+      "projectId": "2",
+      "suiteId": "9",
+      "createTestRun": false,
+      "runId": "18",
+      "runName": "Test Run 7/16/2021"
+    }
+  }
+  
