@@ -1,7 +1,7 @@
 {
     "reporter": "salty-cypress-testrail-reporter",
     "reporterOptions": {
-      "domain": "abhijeetpersonal.testrail.io/",
+      "domain": "abhijeetpersonal.testrail.io",
       "username": "colouredpages@gmail.com",
       "password": "Ckj8g29LcmmzSrZbE5Dh",
       "projectId": "56",

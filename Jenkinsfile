@@ -5,7 +5,8 @@ stages {
 		{
 			steps	{
 					sh 'npm install typescript'
-					sh 'npm install cypress --save-dev'              
+					sh 'npm install cypress --save-dev'   
+					sh 'npm install salty-cypress-testrail-reporter --save-dev'          
 					sh 'npm run cypress:run'
 				}
        	}
