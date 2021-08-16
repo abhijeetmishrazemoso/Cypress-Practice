@@ -2,7 +2,7 @@
 
 
 describe('Method Stubbing', () => {
-    it('Simple method Stubbing C2382',() => {
+    it('Simple method Stubbing C268',() => {
         const func = {
             exec() {console.log('function ran')}
         }

@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 
 describe('Practice Response Stubbing', () => {
-    it('Send request to url and intercept,Modify a response from server C2381',() => {
+    it('Send request to url and intercept,Modify a response from server C269',() => {
         const responseStub = {
             statusCode: 200,
             body: {
